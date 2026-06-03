@@ -2,7 +2,10 @@
 
 基于 ROS2 和 MoveIt 2 的四轴机械臂仿真与控制项目。
 
+                    结果展示：
+
 ![仿真显示](https://github.com/HulinCal/qyu_arm_executor/blob/main/assets/result.gif){target="_blank"}
+
 
 
 ## 项目结构
