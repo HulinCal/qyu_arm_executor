@@ -1,0 +1,3 @@
+1 ros2 launch bme_ros2_simple_arm spawn_robot.launch.py   rviz:=false   (机械臂、moveit,不用rviz)
+2 检查并发布位置：ros2 run pose_control_cpp_pkg object_detect_locate_node --ros-args -p confidence_threshold:=0.51 -p min_red_ratio:=0.05
+3 ros2 run pose_control_cpp_pkg move_to_pose_node
